@@ -8,6 +8,7 @@ module.exports = {
   extends: ['eslint:recommended', 'google'],
   rules: {
     'semi': 'off',
-    'comma-dangle': 'off'
+    'comma-dangle': 'off',
+    'linebreak-style': 'off'
   }
 };
